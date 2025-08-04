@@ -1,5 +1,4 @@
 # Nanduri-uma-Shailaja
-Creating a command line calculator supporting basic operations
 num1 = float(input("Enter first number: "))
 op = input("Enter operator (+, -, *, /): ")
 num2 = float(input("Enter second number: "))
